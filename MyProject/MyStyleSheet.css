@@ -1,0 +1,93 @@
+﻿body {
+    direction: rtl;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+#cphBody_ImageLogo {
+    margin-top: 50px;
+    padding-top: 10px;
+}
+
+Table {
+    margin-left: 8%;
+    margin-right: 15%;
+}
+
+#menuTable {
+    text-align: center;
+    margin-top: 50px ;
+}
+
+td {
+    padding-right: 37px;
+    font-size: xx-large;
+    padding-top: 20px;
+    font-weight: bold;
+    background-color: cornflowerblue;
+    padding-left: 70px;
+}
+
+#corporation {
+    margin-top: 100px;
+}
+
+#h1 {
+    background-color: cornflowerblue;
+    margin-left: 8%;
+    margin-right: 10%;
+    text-decoration: underline;
+    font-family: 'Malgun Gothic';
+    font-size: 35px;
+    margin-top: -40px;
+}
+
+#h2 {
+    font-style: italic;
+    font-size: xx-large;
+    color: royalblue;
+    text-shadow: -40px 40px 5px blue, 0 0 82px cyan;
+}
+
+#lbl1 {
+    font-size: xx-large;
+}
+
+marquee {
+    width: 1895px !important;
+    height: auto !important;
+}
+
+#marq {
+    font-size: -webkit-xxx-large;
+    font-style: italic;
+    color: mediumblue;
+    text-shadow: -5px 5px skyblue;
+    padding-top: 50px;
+}
+
+
+#contactUs {
+    font-size: 100px;
+    color: aqua;
+}
+
+#btnEmail {
+    border: outset;
+    position: center;
+    Font-Size: xx-large !important;
+    Height: 69px;
+    Width: 214px;
+}
+
+#cphBody_lblMailResult {
+    background-color: springgreen;
+    font-size: 20px;
+}
+
+#logIn {
+    margin-top: 50px
+}

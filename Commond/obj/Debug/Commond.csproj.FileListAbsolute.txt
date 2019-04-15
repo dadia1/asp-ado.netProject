@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\c#\asp&ado.netProject\MyProject\Commond\bin\Debug\Commond.dll
+C:\Users\user\Desktop\c#\asp&ado.netProject\MyProject\Commond\bin\Debug\Commond.pdb
+C:\Users\user\Desktop\c#\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.dll
+C:\Users\user\Desktop\c#\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.pdb
+C:\Users\user\Desktop\c#\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.csprojAssemblyReference.cache
+C:\Users\DADIA\Desktop\programing\myProjects\asp&ado\asp&ado.netProject\MyProject\Commond\bin\Debug\Commond.dll
+C:\Users\DADIA\Desktop\programing\myProjects\asp&ado\asp&ado.netProject\MyProject\Commond\bin\Debug\Commond.pdb
+C:\Users\DADIA\Desktop\programing\myProjects\asp&ado\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.csprojAssemblyReference.cache
+C:\Users\DADIA\Desktop\programing\myProjects\asp&ado\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.csproj.CoreCompileInputs.cache
+C:\Users\DADIA\Desktop\programing\myProjects\asp&ado\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.dll
+C:\Users\DADIA\Desktop\programing\myProjects\asp&ado\asp&ado.netProject\MyProject\Commond\obj\Debug\Commond.pdb

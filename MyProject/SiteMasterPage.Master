@@ -1,0 +1,53 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteMasterPage.master.cs" Inherits="MyProject.SiteMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="MyStyleSheet.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/x-icon" href="/Images/imgIco.ico" />
+    <title>ההופעות החסידיות</title>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <div id="h1">
+                <h1>אתר ההופעות החסידיות הגדול בעולם</h1>
+                <hr />
+            </div>
+            <asp:Table ID="menuTable" runat="server">
+                <asp:TableRow runat="server">
+                    <asp:TableCell runat="server">
+                        <asp:HyperLink ID="menuHomePage" runat="server" NavigateUrl="~/HomePage.aspx">דף הבית</asp:HyperLink>
+                    </asp:TableCell>
+                    <asp:TableCell runat="server">
+                        <asp:HyperLink ID="menuVideosPage" runat="server" NavigateUrl="~/VideosPage.aspx">סרטונים</asp:HyperLink>
+                    </asp:TableCell>
+                    <asp:TableCell runat="server">
+                        <asp:HyperLink ID="menuNewUserRegistrPage" runat="server" NavigateUrl="~/NewUserRegistrPage.aspx">משתמש חדש</asp:HyperLink>
+                    </asp:TableCell>
+                    <asp:TableCell runat="server">
+                        <asp:HyperLink ID="menuLoginPage" runat="server" NavigateUrl="~/LoginPage.aspx">כניסה</asp:HyperLink>
+                    </asp:TableCell>
+                    <asp:TableCell runat="server">
+                        <asp:HyperLink ID="menuTicketOrderingPage" runat="server" NavigateUrl="~/TicketOrderingPage.aspx">הזמנת כרטיסים</asp:HyperLink>
+                    </asp:TableCell>
+                    <asp:TableCell runat="server">
+                        <asp:HyperLink ID="menuContactUs" runat="server" NavigateUrl="~/ContactUs.aspx">צור קשר</asp:HyperLink>
+                    </asp:TableCell>
+                </asp:TableRow>
+            </asp:Table>
+
+            <asp:ContentPlaceHolder ID="cphBody" runat="server">
+            </asp:ContentPlaceHolder>
+
+            <div id="corporation">
+                כל הזכויות שמורות &copy; אתר ההופעות שלי - 2018 תשע"ח.
+            </div>
+
+        </div>
+    </form>
+</body>
+</html>
